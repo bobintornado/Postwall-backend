@@ -1,0 +1,4 @@
+* Wall
+  * UUID
+  * creator
+  * title
